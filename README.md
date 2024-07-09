@@ -10,9 +10,6 @@
   <a href="https://www.lua.org/"><img width="50px" src="https://danieltwinn.github.io/images/lua.png" alt="Lua"></a>
   <hr>
   <br>
-  <br>
-  <br>
-  <br>
   <h2>Logo Standards</h2>
   <br>
   <img src="https://danieltwinn.github.io/images/LogoStandards.png" alt="Daniel Winn Logo">
